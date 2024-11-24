@@ -312,7 +312,7 @@ const microtransactions = {
     "Ruler of Wraeclast": 12500,
 
     // Closed Beta
-    "Early Access": 10,
+    "Early Access": 12500,
     "Closed Beta": 15,
     "Kiwi Pack": 25,
     "Gold Pack": 250,
