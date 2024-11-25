@@ -315,11 +315,14 @@ const microtransactions = {
     "Early Access": 12500,
     "Closed Beta": 15,
     "Kiwi Pack": 25,
-    "Gold Pack": 250,
     "Kiwi Supporter Pack": 25,
     "Bronze Pack": 50,
+    "Bronze Supporter Pack": 50,
+    "Silver Pack": 100,
     "Silver Supporter Pack": 100,
+    "Gold Pack": 250,
     "Gold Supporter Pack": 250,
+    "Diamond Pack": 1000,
     "Diamond Supporter Pack": 1000,
 
     // Straight Points
